@@ -22,11 +22,10 @@ title: Evan Isenstein
 email: ejisenstein@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This site displays posts and projects completed by Evan Isenstein. He enjoys reading history books, watching the Tennessee Titans, and listening to classic rock. 
-baseurl: "evans_blog" # the subpath of your site, e.g. /blog
+baseurl: "/evans_blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
+twitter_username: evtweets2
 github_username: ejisenstein
-linkedin_username: evan-isenstein-54b047a3/
 
 # https://github.com/ejisenstein
 
