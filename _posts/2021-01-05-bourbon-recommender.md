@@ -13,4 +13,4 @@ While you can expect updates to the complexity of the bourbon recommender. There
 
 The next model is a NLP based model, utilzings TFIDF and Cosine Distance
 
-There will be additional updates. 
+ 
